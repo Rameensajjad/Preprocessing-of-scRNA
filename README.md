@@ -126,8 +126,19 @@ After filtering, the dataset exhibited reduced noise and improved consistency in
 
 ---
 
+
 ## 8. Limitations
 
 The use of a subsampled dataset limits biological diversity. Additionally, the workflow does not include batch correction or ambient RNA removal, which may be necessary for larger datasets.
 
 ---
+
+## 10. References
+
+Galaxy Training Material:  
+
+https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-preprocessing-tenx/tutorial.html#pre-processing-of-10x-single-cell-rna-datasets  
+
+
+---
+
