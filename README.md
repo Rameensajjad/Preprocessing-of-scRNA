@@ -100,7 +100,8 @@ After filtering, the dataset exhibited reduced noise and improved consistency in
 
 ### Visualizations
 
-- Genes  
+- Genes
+- ![image alt](https://github.com/Rameensajjad/Preprocessing-of-scRNA/blob/56225248512ed44c9b875ef3ed70499f3971a59c/Genes.png)  
 - Barcodes  
 - Matrix Count  
 - Star Alignment plot  
