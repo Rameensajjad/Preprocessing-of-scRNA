@@ -101,12 +101,16 @@ After filtering, the dataset exhibited reduced noise and improved consistency in
 ### Visualizations
 
 - Genes
-- ![image alt](https://github.com/Rameensajjad/Preprocessing-of-scRNA/blob/56225248512ed44c9b875ef3ed70499f3971a59c/Genes.png)  
-- Barcodes  
-- Matrix Count  
-- Star Alignment plot  
-- Multiqc summary table  
-- Dropletutils plot  
+![image alt](https://github.com/Rameensajjad/Preprocessing-of-scRNA/blob/56225248512ed44c9b875ef3ed70499f3971a59c/Genes.png) - Barcodes
+![image alt](https://github.com/Rameensajjad/Preprocessing-of-scRNA/blob/e882686f00badf0b6db3a720fb6f2543c17eb23c/Barcode.png)  
+- Matrix Count
+![image alt](https://github.com/Rameensajjad/Preprocessing-of-scRNA/blob/e882686f00badf0b6db3a720fb6f2543c17eb23c/Matrix%20count.png)  
+- Star Alignment plot
+![image alt](https://github.com/Rameensajjad/Preprocessing-of-scRNA/blob/e882686f00badf0b6db3a720fb6f2543c17eb23c/star_alignment_plot.png)  
+- Multiqc summary table
+![image alt](https://github.com/Rameensajjad/Preprocessing-of-scRNA/blob/e882686f00badf0b6db3a720fb6f2543c17eb23c/table_scatter_plot.png)  
+- Dropletutils plot
+![image alt](https://github.com/Rameensajjad/Preprocessing-of-scRNA/blob/e882686f00badf0b6db3a720fb6f2543c17eb23c/dropletutils%20plot.png)  
 
 ---
 
